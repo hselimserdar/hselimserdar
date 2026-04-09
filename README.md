@@ -77,12 +77,7 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hselimserdar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hselimserdar&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hselimserdar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
 
 </div>
 
