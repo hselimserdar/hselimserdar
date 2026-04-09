@@ -1,15 +1,17 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=H.+Selim+SERDAR;Embedded+Systems+%7C+PCB+Design+%7C+Industrial+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&repeat=true&width=900&height=60&lines=H.+Selim+SERDAR" alt="Typing SVG" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Embedded+Systems+%7C+PCB+Design+%7C+Industrial+Automation" alt="Typing SVG" />
 
 <br/>
 
-<a href="mailto:selimserdar2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/hselimserdar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/hselimserdar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/hselimserdar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@hselimserdar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:selimserdar2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hselimserdar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/hselimserdar" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/hselimserdar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@hselimserdar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <br/>
 
@@ -71,24 +73,6 @@ interests:
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hselimserdar/Automatic-Dose-Control-Physmart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hselimserdar&repo=Automatic-Dose-Control-Physmart&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/hselimserdar/MAGNETIC-STIRRER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hselimserdar&repo=MAGNETIC-STIRRER&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/hselimserdar/INCUBATOR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hselimserdar&repo=INCUBATOR&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,16 +83,6 @@ interests:
 <br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hselimserdar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hselimserdar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
 
 </div>
 
