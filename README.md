@@ -81,8 +81,6 @@ interests:
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3584E4&height=80&section=footer" width="100%"/>
